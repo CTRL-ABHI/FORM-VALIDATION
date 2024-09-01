@@ -1,0 +1,20 @@
+/* Custom styling for the body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+/* Container adjustments */
+.container {
+    max-width: 600px;
+}
+
+/* Heading styling */
+h1 {
+    margin-bottom: 20px;
+}
+
+/* Error message styling */
+.form-text {
+    font-size: 0.875em;
+}
